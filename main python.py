@@ -1,5 +1,6 @@
-import cv2 #importing computer vision library.
-import numpy as np #importing numpy library for working with array and matrices.
+#Object Detection Script Using YOLOv3
+import cv2 #Importing computer vision library.
+import numpy as np #Importing numpy library for working with array and matrices.
 import urllib
 from bs4 import BeautifulSoup
 import urllib.request as ur #these 3 libraries for thingspeak.cloud
